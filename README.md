@@ -1,2 +1,16 @@
 # Resume-Builder-project
-The Resume Builder Project is a simple and interactive web-based application built using HTML, CSS, and JavaScript. It allows users to easily create, preview, and customize their resumes directly in the browser without requiring any backend.
+
+A simple web-based Resume Builder built with **HTML**, **CSS**, and **JavaScript**.
+Users can fill in personal details, preview the resume live, and print/export it.
+
+## Features
+- Live preview while typing
+- Clean, printable layout
+- Easy to customize CSS styles
+
+## Run locally
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/<your-username>/resume-builder.git
+   cd resume-builder
+2 Open index.html in your browser.
